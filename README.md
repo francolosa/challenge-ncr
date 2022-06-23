@@ -12,11 +12,11 @@ Engines, tools, etc:
 
 back end:
 
-* Javascript, Express v2.6, Router, Ejs, mysql2 v2.3, Sequelizer, CORS
+* Node js, Javascript, Express v2.6, Router, Ejs, mysql2 v2.3, Sequelizer, CORS
 
 front end:
 
-* React v13.3, Javascript, react-dom v18, react-router-dom v6, Node js
+* React v13.3, Javascript, react-dom v18, react-router-dom v6, Node js, MVC
 
 Misc:
 
